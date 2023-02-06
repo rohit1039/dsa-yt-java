@@ -42,7 +42,9 @@ public class RemoveEvenElementsFromArray {
 
     /**
      * @param arr
-     * @return count the odd elements, so that no extra space is allocated!
+     * @return
+     *
+     * count the odd elements, so that no extra space is allocated!
      */
     private static int oddCount(int[] arr) {
 
