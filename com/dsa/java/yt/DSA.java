@@ -1,7 +1,7 @@
 package com.dsa.java.yt;
 
 /**
- * @author - Rohit Parida
+ * @author - ROHIT PARIDA
  */
 public class DSA
 {

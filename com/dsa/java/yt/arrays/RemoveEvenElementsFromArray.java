@@ -3,6 +3,8 @@ package com.dsa.java.yt.arrays;
 import java.util.Scanner;
 
 /**
+ * @author - ROHIT PARIDA
+ *
  * Remove even elements from an array
  *
  * @Input - {11, 45, 26, 31, 48}
@@ -17,7 +19,7 @@ public class RemoveEvenElementsFromArray {
 
     int[] arr = new int[5];
 
-   for (int i = 0; i < arr.length; i++) {
+    for (int i = 0; i < arr.length; i++) {
       arr[i] = sc.nextInt();
     }
     int oddCount = oddCount(arr);
@@ -25,12 +27,11 @@ public class RemoveEvenElementsFromArray {
     printArray(finalArray);
   }
 
- /**
-  *
-  * @param arr
-  * @param oddCount
-  * @return
-  */
+  /**
+   * @param arr
+   * @param oddCount
+   * @return
+   */
   private static int[] arrayWithOddElements(int[] arr, int oddCount) {
 
     int[] onlyOddElements = new int[oddCount];
