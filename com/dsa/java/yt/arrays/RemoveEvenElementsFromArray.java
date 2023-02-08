@@ -4,7 +4,7 @@ import java.util.Scanner;
 
 /**
  * @author - ROHIT PARIDA
- *
+ * <p>
  * Remove even elements from an array
  *
  * @Input - {11, 45, 26, 31, 48}

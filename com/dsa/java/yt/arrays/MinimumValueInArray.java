@@ -12,6 +12,11 @@ public class MinimumValueInArray {
     printMinimum(minVal);
   }
 
+  /**
+   *
+   * @param arr
+   * @return
+   */
   private static int findMinimum(int[] arr) {
 
     if (arr.length == 0) {

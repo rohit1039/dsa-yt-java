@@ -3,10 +3,9 @@ package com.dsa.java.yt;
 /**
  * @author - ROHIT PARIDA
  */
-public class DSA
-{
-    public static void main(String[] args)
-    {
-        System.out.println(" Welcome to DSA with Java ");
-    }
+public class DSA {
+  public static void main(String[] args) {
+
+    System.out.println(" Welcome to DSA with Java ");
+  }
 }
